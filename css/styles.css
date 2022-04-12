@@ -767,6 +767,7 @@ color: rgba(117, 117, 117, 0.5);
 .contact-form-checkbox-label {
   display: flex;
   align-items: center;
+  justify-content: center;
 
 }
 
